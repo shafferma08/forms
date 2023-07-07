@@ -60,12 +60,10 @@ Client-side form validation is performed in the user's browser before data is se
 - 
 Always use both client-side and server-side validation to ensure both user friendliness and data integrity. Client-side validation provides immediate feedback, while server-side validation ensures data integrity even if a user bypasses the client-side checks.
 
-## 7. GET and POST Methods
+# GET and POST Methods
 
 - **GET:** Appends form-data to the URL in name/value pairs. It's best for non-sensitive data and when you want to bookmark the result.
 - **POST:** Form-data is sent as HTTP message body. It's used when dealing with sensitive data or large amounts of data.
-
-# GET and POST Methods
 
 ## 1. GET Method
 
