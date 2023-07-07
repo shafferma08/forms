@@ -16,12 +16,9 @@
 5. **Client-Side Form Validation**
     - [MDN Web Docs: Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#client-side_validation)
 
-6. **Difference Between Client-Side and Server-Side Validation**
-    - [GeeksforGeeks: Client Side and Server Side Validation](https://www.geeksforgeeks.org/difference-between-client-side-server-side-validation-in-web-development/)
-
-7. **GET and POST Methods**
+6. **GET and POST Methods**
     - [W3Schools: HTML form method Attribute](https://www.w3schools.com/tags/att_form_method.asp)
 
-8. **General Resources on HTML Forms**
+7. **General Resources on HTML Forms**
     - [MDN Web Docs: Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
     - [W3Schools: HTML Forms](https://www.w3schools.com/html/html_forms.asp)
