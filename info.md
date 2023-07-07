@@ -57,8 +57,8 @@ Client-side form validation is performed in the user's browser before data is se
 
 - **Client-Side Validation:** Provides immediate feedback to users and helps catch errors early. However, it should not be used alone as users can easily bypass it.
 - **Server-Side Validation:** Takes place on the server, is more secure, and should always be performed because it can't be bypassed by users.
-- 
-Always use both client-side and server-side validation to ensure both user friendliness and data integrity. Client-side validation provides immediate feedback, while server-side validation ensures data integrity even if a user bypasses the client-side checks.
+- Always use both client-side and server-side validation to ensure both user friendliness and data integrity. Client-side validation provides immediate feedback, while server-side validation ensures data integrity even if a user bypasses the client-side checks.
+![Server vs Client side validation](https://slideplayer.com/6640474/23/images/slide_1.jpg)
 
 # GET and POST Methods
 
